@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Full Stack Developement**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN/MEAN Stack**
 
 - 👯 I’m looking to collaborate on **Full Stack Developer role.**
 
