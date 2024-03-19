@@ -11,7 +11,7 @@
 
 - 👨‍💻 my projects are available at [https://nandinikashyap1902.github.io/myportfolio.github.io/](https://nandinikashyap1902.github.io/myportfolio.github.io/)
 
-- 💬 Ask me about **Reactjs,Html,css,Bootstrap,Javascript,AngularJs,Nodejs,Java**
+- 💬 Ask me about **Reactjs,Html/Css,SASS,Bootstrap,Javascript,AngularJs,Nodejs,MUI,Java,MongoDB,Firebase**
 
 - 📫 How to reach me **nandinikashyap1902@gmail.com**
 
