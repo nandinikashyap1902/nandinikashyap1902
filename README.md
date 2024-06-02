@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandinikashyap1902&label=Profile%20views&color=0e75b6&style=flat" alt="nandinikashyap1902" /> </p>
 
-- 🔭 I’m currently working on **Full Stack Developement**
+- 🔭 I’m currently working on **Full Stack Development**
 
 - 🌱 I’m currently learning **MERN/MEAN Stack**
 
-- 👯 I’m looking to collaborate on **Full Stack Developer role.**
+- 👯 I want to collaborate on a **Full Stack Developer role.**
 
 - 👨‍💻 my projects are available at [https://nandinikashyap1902.github.io/myportfolio.github.io/](https://nandinikashyap1902.github.io/myportfolio.github.io/)
 
-- 💬 Ask me about **Reactjs,Html/Css,SASS,Bootstrap,Javascript,AngularJs,Nodejs,MUI,Java,MongoDB,Firebase**
+- 💬 Ask me about **Reactjs, Html/Css, SASS, Bootstrap, Javascript, AngularJs, Nodejs, MUI, Java, MongoDB, Firebase**
 
 - 📫 How to reach me **nandinikashyap1902@gmail.com**
 
